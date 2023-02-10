@@ -22,6 +22,8 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximfersko&layout=compact"/></a>
 </p>
 
+## About Me
+I'm 21 years old, I study at ngtu and School 21. I'm into desktop development in C++/Qt, cryptography, computational math.In my spare time I'm learning React
 
 ## 🛠 Technical Stack
 *   C/C++, Javascript
