@@ -36,7 +36,7 @@ I'm 21 years old, I study at ngtu and School 21. I'm into desktop development in
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/maximferslo/github-profile-views-counter">
-       <img width="130px" src="https://komarev.com/ghpvc/?username=maximfersko&color=004DFF">
+       <img width="130px" src="https://komarev.com/ghpvc/?username=maximfersko&color=00BFFF">
    </a>
 </div>
 
