@@ -22,7 +22,7 @@
 </p>
 
 ## About Me
-I'm 21 years old, I study at ngtu and School 21. I'm into desktop development in C++/Qt, cryptography, computational math.In my spare time I'm learning React
+I'm 21 years old, I study at NSTU and School 21. I'm into desktop development in C++/Qt, cryptography, computational math.In my spare time I'm learning React
 
 ## 🛠 Technical Stack
 *   C/C++, Javascript, Bash
