@@ -9,12 +9,11 @@
 	<a href="twitter-url">
 		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 	</a>
-	<a href="[telegram-url](https://t.me/fersko)">
+	<a href="https://t.me/fersko">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-![](https://komarev.com/ghpvc/?username=maximfersko)
+
 <!--
 **maximfersko/maximfersko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
