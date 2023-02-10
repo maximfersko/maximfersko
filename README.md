@@ -15,7 +15,12 @@
 </div>
 
 <p align='center'>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
+   <a href="https://github-readme-stats.vercel.app/api?username=maximfersko&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=maximfersko&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/maximfersko/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximfersko&layout=compact"/></a>
+
 </p>
 
 ## About Me
@@ -31,7 +36,7 @@ I'm 21 years old, I study at ngtu and School 21. I'm into desktop development in
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/maximferslo/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=maximfersko&color=DE002D">
+       <img width="130px" src="https://komarev.com/ghpvc/?username=maximfersko&color=004DFF">
    </a>
 </div>
 
