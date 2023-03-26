@@ -4,7 +4,7 @@
 </div>
 <div id="socials" align="center">
 	</a>
-	<a href="gmail-url">
+	<a href="bobrovmaksim35@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 	</a>
 	<a href="https://t.me/fersko">
