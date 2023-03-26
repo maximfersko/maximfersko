@@ -5,7 +5,7 @@
 <div id="socials" align="center">
 	</a>
 	<a href="bobrovmaksim35@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+		<img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="bobrovmaksim35@gmail.com"/>
 	</a>
 	<a href="https://t.me/fersko">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
