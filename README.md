@@ -22,7 +22,7 @@
 </p>
 
 ## About Me
-I'm 21 years old, I study at NSTU and School 21.In my spare time I'm learning React.
+
 
 ## 🛠 Technical Stack
 *   C/C++, Javascript, Bash
