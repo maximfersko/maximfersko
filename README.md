@@ -25,11 +25,7 @@
 
 
 ## 🛠 Technical Stack
-*   C/C++, Javascript, Bash
-*   PostgreSQL, MongoDB
-*   Docker, DevOps
-*   React/Redux
-*   GitHub/GitLab/
+
 
 
 <div align="center" style="margin: 40px 0">
