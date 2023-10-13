@@ -27,16 +27,16 @@
 ## 🛠 Technical Stack
 
 ### Programming Languages
- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
- ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 ### Frameworks and Libraries
- ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
- ![Boost](https://img.shields.io/badge/-Boost-F69220?logo=boost&logoColor=white)
- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
- ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
+![Boost](https://img.shields.io/badge/-Boost-F69220?logo=boost&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 
 ### Databases
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
@@ -44,7 +44,7 @@
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
