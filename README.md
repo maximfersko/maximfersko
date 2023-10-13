@@ -27,7 +27,25 @@
 ## 🛠 Technical Stack
 
 ### Programming Languages
-- h
+- C
+- C++(14-17)
+- Javascript
+- Java
+
+### Frameworks and Libraries
+- Qt(5.0.0-6.2.4)
+- Boost
+- Node.js
+- Spring, Spring-boot
+
+### Databases
+- PostgreSQL
+- MongoDB
+
+### Development Tools
+- Git
+- Docker
+  
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/maximferslo/github-profile-views-counter">
