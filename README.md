@@ -45,6 +45,11 @@
 ### Development Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+![GCC](https://img.shields.io/badge/-GCC-000000?logo=gcc&logoColor=white)
+![Makefile](https://img.shields.io/badge/-Makefile-000000?logo=makefile&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white)
+
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
