@@ -14,13 +14,6 @@
 
 Backend developer with hands-on experience designing, scaling, and maintaining distributed systems.
 
-- Led migration of a large Java monolith to microservices, designed and deployed critical services to Kubernetes
-- Built centralized SSO / Identity Brokering solutions with Keycloak + Spring Security
-- Architected a high-throughput Python scheduler handling **1M+ outbound requests/day**
-- Set up full observability stacks: Prometheus + Loki + Grafana
-- School 21 by Sber (2021–2024) · Java Backend intensive @ Aston (2023–2024)
-- Open to new opportunities
-
 ---
 
 ### Tech stack
