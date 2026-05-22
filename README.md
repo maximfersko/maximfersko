@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Maxim 👋
+# Maxim Fersko
 ### Backend Engineer · Java / Python
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobrovmaksim35@gmail.com)
@@ -10,33 +10,33 @@
 
 ---
 
-### 👨‍💻 About me
+### About me
 
 Backend developer with hands-on experience designing, scaling, and maintaining distributed systems.
 
-- 🏗 Led migration of a large Java monolith to microservices, designed and deployed critical services to Kubernetes
-- 🔐 Built centralized SSO / Identity Brokering solutions with Keycloak + Spring Security
-- ⚡ Architected a high-throughput Python scheduler handling **1M+ outbound requests/day**
-- 📊 Set up full observability stacks: Prometheus + Loki + Grafana
-- 🎓 School 21 by Sber (2021–2024) · Java Backend intensive @ Aston (2023–2024)
-- 💼 Open to new opportunities
+- Led migration of a large Java monolith to microservices, designed and deployed critical services to Kubernetes
+- Built centralized SSO / Identity Brokering solutions with Keycloak + Spring Security
+- Architected a high-throughput Python scheduler handling **1M+ outbound requests/day**
+- Set up full observability stacks: Prometheus + Loki + Grafana
+- School 21 by Sber (2021–2024) · Java Backend intensive @ Aston (2023–2024)
+- Open to new opportunities
 
 ---
 
-### 🛠 Tech stack
+### Tech stack
 
-```
-Languages       Java (Spring Boot, Spring Security, Gradle)  ·  Python (FastAPI, Django)  ·  C/C++
-Databases       PostgreSQL  ·  Redis  ·  RabbitMQ  ·  Kafka
-DevOps          Docker  ·  Kubernetes  ·  CI/CD  ·  Linux  ·  AWS  ·  DigitalOcean
-Frontend        React (SPA)
-Monitoring      Prometheus  ·  Loki  ·  Grafana
-Auth            Keycloak  ·  SSO  ·  Identity Brokering
-```
+| | |
+|---|---|
+| **Languages** | Java · Spring Boot · Spring Security · Gradle · Python · FastAPI · Django · C/C++ |
+| **Databases** | PostgreSQL · Redis · RabbitMQ · Kafka |
+| **DevOps** | Docker · Kubernetes · CI/CD · Linux · AWS · DigitalOcean |
+| **Observability** | Prometheus · Loki · Grafana |
+| **Auth** | Keycloak · SSO · Identity Brokering |
+| **Frontend** | React |
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=maximfersko&show_icons=true&count_private=true&hide_border=true&theme=default" />
