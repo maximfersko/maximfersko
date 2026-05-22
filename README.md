@@ -39,8 +39,7 @@ Backend developer with hands-on experience designing, scaling, and maintaining d
 ### GitHub stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=maximfersko&show_icons=true&count_private=true&hide_border=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximfersko&layout=compact&hide_border=true&theme=default" />
+  <img src="https://myreadme.vercel.app/api/embed/maximfersko?panels=userstatistics,toplanguages,commitgraph" alt="GitHub stats" />
 </p>
 
 ---
