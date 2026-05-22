@@ -1,9 +1,7 @@
 <div align="center">
 
 # Hi, I'm Maxim 👋
-### Backend Developer
-
-*Building reliable and scalable services*
+### Backend Engineer · Java / Python
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bobrovmaksim35@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fersko)
@@ -14,42 +12,35 @@
 
 ### 👨‍💻 About me
 
-- 🔭 Currently working as a backend developer
+Backend developer with hands-on experience designing, scaling, and maintaining distributed systems.
+
+- 🏗 Led migration of a large Java monolith to microservices, designed and deployed critical services to Kubernetes
+- 🔐 Built centralized SSO / Identity Brokering solutions with Keycloak + Spring Security
+- ⚡ Architected a high-throughput Python scheduler handling **1M+ outbound requests/day**
+- 📊 Set up full observability stacks: Prometheus + Loki + Grafana
+- 🎓 School 21 by Sber (2021–2024) · Java Backend intensive @ Aston (2023–2024)
 - 💼 Open to new opportunities
-- 💬 Ask me about Java, Spring Boot, distributed systems
-- 📍 Russia
 
 ---
 
 ### 🛠 Tech stack
 
-#### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### Databases & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-#### Infrastructure & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+```
+Languages       Java (Spring Boot, Spring Security, Gradle)  ·  Python (FastAPI, Django)  ·  C/C++
+Databases       PostgreSQL  ·  Redis  ·  RabbitMQ  ·  Kafka
+DevOps          Docker  ·  Kubernetes  ·  CI/CD  ·  Linux  ·  AWS  ·  DigitalOcean
+Frontend        React (SPA)
+Monitoring      Prometheus  ·  Loki  ·  Grafana
+Auth            Keycloak  ·  SSO  ·  Identity Brokering
+```
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=maximfersko&show_icons=true&count_private=true&theme=default&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximfersko&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maximfersko&theme=default&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=maximfersko&show_icons=true&count_private=true&hide_border=true&theme=default" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximfersko&layout=compact&hide_border=true&theme=default" />
 </p>
 
 ---
