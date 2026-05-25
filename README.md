@@ -15,19 +15,6 @@ Backend developer with hands-on experience designing, scaling, and maintaining d
 
 ---
 
-### Tech stack
-
-| | |
-|---|---|
-| **Languages** | Java · Spring Boot · Spring Security · Gradle · Python · FastAPI · Django · C/C++ |
-| **Databases** | PostgreSQL · Redis · RabbitMQ · Kafka |
-| **DevOps** | Docker · Kubernetes · CI/CD · Linux · AWS · DigitalOcean |
-| **Observability** | Prometheus · Loki · Grafana |
-| **Auth** | Keycloak · SSO · Identity Brokering |
-| **Frontend** | React |
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=maximfersko&color=blue&style=flat-square" />
 </div>
